@@ -1,4 +1,4 @@
-__all__ = ["AuthInfo"]
+__all__ = ["AuthInfo", "Session"]
 
 from pydantic import BaseModel
 
